@@ -115,13 +115,13 @@ The system is developed across five sprints, starting from core essentials and g
 <br/><br/>
   The project is considered successful if,
 
-  1.All user stories in the defined epics are developed, tested, and deployed.
+         1. All user stories in the defined epics are developed, tested, and deployed.
 
-  2.Primary stakeholders confirm that the system is functional, usable, and meets business needs.
+         2. Primary stakeholders confirm that the system is functional, usable, and meets business needs.
 
-  3.All work is completed within the academic timeline, and documentation is submitted.
+         3. All work is completed within the academic timeline, and documentation is submitted.
 
-  4.JIRA is effectively used for sprint planning, backlog management, and task tracking.
+         4. JIRA is effectively used for sprint planning, backlog management, and task tracking.
 
 <br/> <br/>
 
