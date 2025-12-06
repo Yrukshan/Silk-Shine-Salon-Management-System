@@ -1,4 +1,4 @@
-# Silk-Shine-Salon-Management-System
+# Silk-Shine- (Salon-Management-System)
 
 <br/>
 A full-stack web application designed to modernize and streamline salon operations for Silk & Shine, a well-established salon based in Kandy, Sri Lanka. The system is built using Spring Boot (Backend), React.js (Frontend), and MySQL (Database), following modern development practices and developed through multiple agile sprints.
