@@ -20,7 +20,6 @@ The system is developed across five sprints, starting from core essentials and g
 📌 Key Features :
 <br/><br/>
 1. User Management
-<br/>
   🔹Secure login & registration for Clients, Staff, and Admins
 
   🔹Admin dashboard to view and manage all registered users
