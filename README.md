@@ -3,7 +3,7 @@
 <br/>
 A full-stack web application designed to modernize and streamline salon operations for Silk & Shine, a well-established salon based in Kandy, Sri Lanka. The system is built using Spring Boot (Backend), React.js (Frontend), and MySQL (Database), following modern development practices and developed through multiple agile sprints.
 
-<br/>
+<br/><br/>
 <img width="1919" height="1015" alt="Screenshot 2025-09-03 192702" src="https://github.com/user-attachments/assets/04474099-16a0-4818-b00e-88daade53766" />
 <img width="1915" height="1019" alt="Screenshot 2025-09-03 192715" src="https://github.com/user-attachments/assets/f7d17af8-36a7-4063-b39d-32cf4e4aa6b1" />
 
@@ -20,6 +20,7 @@ The system is developed across five sprints, starting from core essentials and g
 📌 Key Features :
 <br/><br/>
 1. User Management
+<br/>
   🔹Secure login & registration for Clients, Staff, and Admins
 
   🔹Admin dashboard to view and manage all registered users
