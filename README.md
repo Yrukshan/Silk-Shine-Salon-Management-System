@@ -29,8 +29,7 @@ The system is developed across five sprints, starting from core essentials and g
        🔹Staff registration, profile management, and role handling
 <br/>
 2. Online Booking System
-<br/>
-  
+
       🔹Public booking portal for viewing services and making appointments
 
       🔹Staff availability integrated into the booking process
@@ -72,15 +71,19 @@ The system is developed across five sprints, starting from core essentials and g
 🎯 Project Objectives :
 <br/><br/>
   ✅ Enhance Customer Accessibility
+  
        🔹 Provide clients with a 24/7 online platform for booking, viewing services, and checking availability.
 
   ✅ Streamline Internal Operations
+  
        🔹 Centralized management of staff schedules, services, clients, and finances.
 
   ✅ Improve Financial Visibility
+  
        🔹 Dashboards and automated reports for the salon owner to monitor business performance easily.
 
   ✅ Ensure Scalability
+  
        🔹 Build a foundation that supports future expansions such as multi-branch integration and advanced marketing features.
 
 <br/> <br/>
