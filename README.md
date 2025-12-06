@@ -20,7 +20,7 @@ The system is developed across five sprints, starting from core essentials and g
 📌 Key Features :
 <br/><br/>
 1. User Management
-
+<br/>
   🔹Secure login & registration for Clients, Staff, and Admins
 
   🔹Admin dashboard to view and manage all registered users
@@ -28,7 +28,7 @@ The system is developed across five sprints, starting from core essentials and g
   🔹Staff registration, profile management, and role handling
 <br/>
 2. Online Booking System
-
+<br/>
   🔹Public booking portal for viewing services and making appointments
 
   🔹Staff availability integrated into the booking process
@@ -38,7 +38,7 @@ The system is developed across five sprints, starting from core essentials and g
   🔹Automated booking confirmations via Email/SMS
 <br/>
 3. Service & Staff Management
-
+<br/>
   🔹Admin module to create, edit, and manage salon services
 
   🔹Staff profiles including skills, availability, and appointments
@@ -46,6 +46,7 @@ The system is developed across five sprints, starting from core essentials and g
   🔹Easy assignment and tracking of bookings
 <br/>
 4. Financial Management
+<br/>
    Phase 01
 
     🔹Owner dashboard with centralized financial overview
@@ -53,9 +54,10 @@ The system is developed across five sprints, starting from core essentials and g
     🔹Secure online payment portal (simulation only)
 
     🔹Create and manage promotions/discounts
-
+<br/>
    Phase 02
-
+   <br/>
+   
     🔹Staff activity logs
 
     🔹Automated salary calculations based on appointments
