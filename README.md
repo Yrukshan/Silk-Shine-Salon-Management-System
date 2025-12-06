@@ -9,7 +9,7 @@ A full-stack web application designed to modernize and streamline salon operatio
 
 <br/> <br/>
 🚀 Project Overview :
-<br/>
+<br/><br/>
 Silk & Shine currently manages all operations manually without a digital system. This project aims to replace paper-based workflows with a fully functional, efficient, and user-friendly Salon Management System.
 The solution introduces online booking, staff management, service management, and financial tracking — all through an easy-to-use web interface.
 
@@ -18,7 +18,7 @@ The system is developed across five sprints, starting from core essentials and g
 <br/> <br/>
 
 📌 Key Features :
-<br/>
+<br/><br/>
 1. User Management
 
   🔹Secure login & registration for Clients, Staff, and Admins
@@ -65,7 +65,7 @@ The system is developed across five sprints, starting from core essentials and g
 <br/> <br/>
 
 🎯 Project Objectives :
-<br/>
+<br/><br/>
   ✅ Enhance Customer Accessibility
        🔹 Provide clients with a 24/7 online platform for booking, viewing services, and checking availability.
 
@@ -81,7 +81,7 @@ The system is developed across five sprints, starting from core essentials and g
 <br/> <br/>
 
 👥 Stakeholders :
-<br/>
+<br/><br/>
   ✅ Business Stakeholders :
 
     🔹 Mr. Maleesha Bandara (Salon Owner) – Project sponsor, provides requirements & final approvals
@@ -104,7 +104,7 @@ The system is developed across five sprints, starting from core essentials and g
 <br/> <br/>
 
 🏆 Success Criteria :
-<br/>
+<br/><br/>
   The project is considered successful if,
 
   1.All user stories in the defined epics are developed, tested, and deployed.
@@ -118,7 +118,7 @@ The system is developed across five sprints, starting from core essentials and g
 <br/> <br/>
 
 🛠️ Tech Stack :
-<br/>
+<br/><br/>
 
 | Layer        | Technology                   |
 | ------------ | ---------------------------- |
