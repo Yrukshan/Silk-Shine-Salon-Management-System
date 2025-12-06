@@ -21,29 +21,32 @@ The system is developed across five sprints, starting from core essentials and g
 <br/><br/>
 1. User Management
 <br/>
-  🔹Secure login & registration for Clients, Staff, and Admins
 
-  🔹Admin dashboard to view and manage all registered users
+       🔹Secure login & registration for Clients, Staff, and Admins
 
-  🔹Staff registration, profile management, and role handling
+       🔹Admin dashboard to view and manage all registered users
+
+       🔹Staff registration, profile management, and role handling
 <br/>
 2. Online Booking System
 <br/>
-  🔹Public booking portal for viewing services and making appointments
+  
+      🔹Public booking portal for viewing services and making appointments
 
-  🔹Staff availability integrated into the booking process
+      🔹Staff availability integrated into the booking process
 
-  🔹Clients can view their upcoming appointments
+      🔹Clients can view their upcoming appointments
 
-  🔹Automated booking confirmations via Email/SMS
+      🔹Automated booking confirmations via Email/SMS
 <br/>
 3. Service & Staff Management
 <br/>
-  🔹Admin module to create, edit, and manage salon services
 
-  🔹Staff profiles including skills, availability, and appointments
+      🔹Admin module to create, edit, and manage salon services
 
-  🔹Easy assignment and tracking of bookings
+      🔹Staff profiles including skills, availability, and appointments
+
+      🔹Easy assignment and tracking of bookings
 <br/>
 4. Financial Management
 <br/>
