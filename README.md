@@ -134,7 +134,7 @@ The system is developed across five sprints, starting from core essentials and g
 | Backend      | Spring Boot                  |
 | Database     | MySQL                        |
 | Tools        | JIRA, GitHub, Postman        |
-| Architecture | REST API, MVC                |
+| Architecture | REST API, MVC, Layered Architecture               |
 
 <br/> <br/>
 👉 Group Project Github Link : https://github.com/Indusaranie004/Silk-Shine
