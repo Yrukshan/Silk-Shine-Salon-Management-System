@@ -100,7 +100,7 @@ The system is developed across five sprints, starting from core essentials and g
 
   ✅ Technical Stakeholders
 
-   Project Team
+   Project Team :
 
     🔹 Scrum Master
 
